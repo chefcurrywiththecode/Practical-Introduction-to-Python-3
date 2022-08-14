@@ -1,0 +1,5 @@
+Python Basics: A Practical Introduction to Python 3 textbook
+
+This is my code files for working through Python Basics: A Practical Introduction to Python 3 textbook.
+
+Isaac and Liya are also completing this textbook. Let's see if they will finish in 6 months.
