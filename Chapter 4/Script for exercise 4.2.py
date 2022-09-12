@@ -14,3 +14,5 @@ print(string4)
 
 string5='bazinga'
 print(string5[2:6])
+
+
