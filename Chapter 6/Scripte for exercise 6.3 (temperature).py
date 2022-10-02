@@ -6,7 +6,7 @@ def convert_cel_to_far(celsius):
     farenheit = celsius * 9/5 + 32
     return farenheit
 
-print(convert_cel_to_far(32))
+print((f'{convert_cel_to_far(30):.2f}'))
 
 
 """ convert_far_to_cel() which take one float parameter representing
@@ -17,4 +17,4 @@ def convert_far_to_cel(farenheit):
     celsius = (farenheit- 32) * 5/9
     return celsius
 
-print(convert_far_to_cel(100))
+print((f'{convert_far_to_cel(100):.2f}'))
